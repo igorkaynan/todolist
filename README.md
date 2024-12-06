@@ -30,7 +30,7 @@ Este projeto é uma Lista de Tarefas desenvolvida com **HTML**, **CSS** e **Java
 
 Aqui está uma imagem de como o carrossel se parece:
 
-![Todolist]
+[lista-de-tarefas](https://github.com/user-attachments/assets/1dbbd219-b62b-456e-9257-e131d21b326f)
 
 > **Nota:** Certifique-se de que todos os arquivos (HTML, CSS, JS e imagem) estejam na mesma pasta para que o projeto funcione corretamente.
 
